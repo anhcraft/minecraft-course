@@ -34,9 +34,9 @@ _(Materials for **Vietnamese** Minecraft plugin development course)_
     6. Giới thiệu project khoá học
 2. Kiến trúc và cách hoạt động của 1 server Minecraft
     1. Cách server Minecraft hoạt động
-        2. Network layer
-        3. Persistence layer
-        4. Game logic layer
+        1. Network layer
+        2. Persistence layer
+        3. Game logic layer
     2. Cách server Minecraft được mod
         1. Obfuscation mapping (Mojang, Fabric, Spigot)
         2. Patching
