@@ -2,6 +2,11 @@
 Tài nguyên khoá học Minecraft plugin.<br>
 _(Materials for **Vietnamese** Minecraft plugin development course)_
 
+## Mục tiêu
+- Hiểu được cách server Minecraft hoạt động
+- Tạo plugin cho server Minecraft từ cơ bản đến nâng cao
+- Tích hợp plugin và cơ sở dữ liệu (database)
+
 ## Thông tin
 - Kênh thảo luận: https://minecraftvn.net/
 - Liên hệ mình: Discord `@anhcraft`
@@ -9,20 +14,8 @@ _(Materials for **Vietnamese** Minecraft plugin development course)_
   - Paypal: https://paypal.me/lycheene
   - MoMo/Bank: Liên hệ qua Discord
 
-## Mục tiêu
-- Hiểu được cách server Minecraft hoạt động
-- Tạo plugin cho server Minecraft từ cơ bản đến nâng cao
-- Tích hợp plugin và cơ sở dữ liệu (database)
-
-## Sản phẩm sau khoá học
-- Dự án mini 1: Plugin bảo mật server
-- Dự án mini 2: Plugin sửa item
-- Dự án Mini 3: Plugin invsee
-- Dự án Mini 4: Plugin boss
-- Dự án Mini 5: Plugin hologram
-- Dự án Mini 6: Plugin custom item
-- Dự án Mini 7: Plugin cá cược chẵn lẻ
-- Dự án lớn: Plugin minigame
+## Bài học
+Xem tại đây: [LESSONS.md](LESSONS.md)
 
 ## Nội dung
 1. Giới thiệu về phát triển plugin Minecraft
@@ -107,7 +100,7 @@ _(Materials for **Vietnamese** Minecraft plugin development course)_
     1. Tạo boss bằng Entity API
     2. Thêm skill cho boss
 19. ArmorStand
-20. Block Display
+20. Display Entity
 21. Dự án Mini 5: Plugin Hologram
 22. Block API, World API
     1. Cập nhật state block
@@ -130,8 +123,20 @@ _(Materials for **Vietnamese** Minecraft plugin development course)_
 25. Dự án Mini 6: Plugin custom item
 26. Dùng Vault API
 27. Dùng Placeholder API
+    1. Parse placeholders
+    2. Create custom expansion
 28. Dự án Mini 7: Plugin cá cược chẵn lẻ
 29. Plugin messaging (1 chiều)
-30. Kết nối Database
-31. NMS
-32. Dự án lớn: Plugin Minigame
+    1. Forward players
+30. Tích hợp Database
+31. Dùng ProtocolLib
+    1. Tạo Armor Stand, Display Entity bằng packet
+    2. Mute sounds using packets
+    3. Custom block hardness
+32. Dự án lớn: Plugin Minigame (SurvivalGames)
+    1. Multi-arena, Solo/Team
+    2. Custom kits
+    3. Custom items
+    4. Random lootable chest
+    5. Spectator mode
+    6. Using: Vault, PlaceholderAPI, ProtocolLib, ajLeaderboards
