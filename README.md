@@ -25,25 +25,24 @@ Xem tại đây: [LESSONS.md](LESSONS.md)
     4. Yêu cầu khoá học
     5. Mục tiêu và lộ trình học
     6. Giới thiệu project khoá học
-2. Kiến trúc và cách hoạt động của 1 server Minecraft
+2. Kiến trúc server Minecraft
     1. Cách server Minecraft hoạt động
         1. Network layer
-        2. Persistence layer
+        2. Data layer
         3. Game logic layer
     2. Cách server Minecraft được mod
         1. Obfuscation mapping (Mojang, Fabric, Spigot)
         2. Patching
-    3. Sự khác nhau giữa API và Implementation
-    4. NMS là gì
-    5. So sánh CraftBukkit/Spigot/Paper/Bungeecord/Velocity/Fabric/Forge
+    3. So sánh CraftBukkit/Spigot/Paper/Bungeecord/Velocity/Fabric/Forge
+    4. Sự khác nhau giữa API và Implementation
+    5. NMS là gì
 3. Tạo plugin đầu tiên
     1. Cài đặt môi trường, công cụ qua
         1. IntelliJ + Minecraft Development plugin + Maven
-       2. VSCode + Maven
+        2. VSCode + Maven
     2. Giới thiệu về plugin Minecraft development
     3. Tạo plugin in ra console `Hello World` dùng built-in logger
     4. Cách biên dịch, đóng gói thành file
-    5. Hot reloading bằng Jetbrains runtime
 4. Sơ lược về Bukkit API, Spigot API, Paper API
     1. Giới thiệu về Javadoc
     2. Cách tra cứu, tham khảo khi có vấn đề
