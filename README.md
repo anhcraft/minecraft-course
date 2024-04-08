@@ -43,42 +43,44 @@ Xem tại đây: [LESSONS.md](LESSONS.md)
     2. Giới thiệu về plugin Minecraft development
     3. Tạo plugin in ra console `Hello World` dùng built-in logger
     4. Cách biên dịch, đóng gói thành file
-4. Sơ lược về Bukkit API, Spigot API, Paper API
-    1. Giới thiệu về Javadoc
-    2. Cách tra cứu, tham khảo khi có vấn đề
-5. Kiến trúc plugin
+4. Kiến trúc plugin
     1. Vòng đời plugin (Lifecycle)
     2. Plugin loading mechanism
     3. Plugin.yml
     4. Paper's new plugin.yml
     5. Cách tổ chức code trong plugin
-6. Event system
+    6. Sơ lược về Bukkit API, Spigot API, Paper API
+5. Event system
     1. Cách event system hoạt động
     2. Cách listen event
     3. Cách emit event
     4. Tạo event riêng
     5. Share state giữa các event
-7. Command system
+6. Command system
     1. Tạo command, tab complete
     2. Command section trong plugin.yml
     3. Sơ lược ACF, Commands API
-8. Permission system
+7. Permission system
     1. Permission section trong plugin.yml
     2. Kiểm tra permission
     3. Thêm permission
-9. Configuration
+8. Configuration
     1. Dùng built-in configuration (SnakeYAML)
     2. Dùng JSON
     3. Object mapping cho configuration
-10. Dự án mini 1: Plugin bảo mật server
+9. Dự án mini 1: Plugin bảo mật server
     1. Whitelist staff cho phép
     2. 2FA dùng code
-11. Chat component API
+10. Chat component API
     1. Legacy chat API
     2. Bungee chat API
     3. Adventure chat API
     4. MiniMessage
-12. Localization (i18n)
+11. Localization (i18n)
+12. Named Binary Tag (NBT)
+    1. Cấu trúc NBT
+    2. NBT trong world, player data
+    3. Xem và chỉnh sửa NBT
 13. Item API
     1. Tạo item, item meta
     2. Persistent data
