@@ -1,0 +1,4 @@
+name: baitap2sukien
+version: '${project.version}'
+main: dev.anhcraft.baitap2sukien.Baitap2sukien
+api-version: '1.20'
