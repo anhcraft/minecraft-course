@@ -1,0 +1,17 @@
+name: essentials-lite
+version: '${project.version}'
+main: dev.anhcraft.essentialslite.EssentialsLite
+api-version: '1.20'
+commands:
+  heal:
+    description: "Heal player"
+    aliases: [hoimau]
+  weather:
+    description: "Weather"
+    aliases: [thoitiet]
+  time:
+    description: "Time"
+    aliases: [thoigian]
+  gamemode:
+    description: "Gamemode"
+    aliases: [gm, chedo]
