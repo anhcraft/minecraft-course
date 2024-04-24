@@ -8,7 +8,9 @@ _(Materials for **Vietnamese** Minecraft plugin development course)_
 - Tích hợp plugin và cơ sở dữ liệu (database)
 
 ## Thông tin
-- Kênh thảo luận: https://minecraftvn.net/
+- Kênh thảo luận: 
+  - Forum: https://minecraftvn.net/
+  - Discord: https://discord.gg/88zavUAdbQ
 - Liên hệ mình: Discord `@anhcraft`
 - Ủng hộ tác giả: 
   - Paypal: https://paypal.me/lycheene
