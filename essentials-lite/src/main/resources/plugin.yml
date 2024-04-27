@@ -15,3 +15,9 @@ commands:
   gamemode:
     description: "Gamemode"
     aliases: [gm, chedo]
+  speed:
+    description: "speed"
+    aliases: [tocdo]
+  tp:
+    description: "tp"
+    aliases: [dichchuyen]

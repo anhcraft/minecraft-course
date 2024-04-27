@@ -1,0 +1,7 @@
+name: executable-block
+version: '${project.version}'
+main: dev.anhcraft.executableblock.ExecutableBlock
+api-version: '1.20'
+commands:
+  eb:
+    description: executable block

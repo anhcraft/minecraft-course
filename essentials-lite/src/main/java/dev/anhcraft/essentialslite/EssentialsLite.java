@@ -1,9 +1,6 @@
 package dev.anhcraft.essentialslite;
 
-import dev.anhcraft.essentialslite.command.GamemodeCommand;
-import dev.anhcraft.essentialslite.command.HealCommand;
-import dev.anhcraft.essentialslite.command.TimeCommand;
-import dev.anhcraft.essentialslite.command.WeatherCommand;
+import dev.anhcraft.essentialslite.command.*;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class EssentialsLite extends JavaPlugin {
@@ -14,6 +11,8 @@ public final class EssentialsLite extends JavaPlugin {
         getCommand("weather").setExecutor(new WeatherCommand());
         getCommand("time").setExecutor(new TimeCommand());
         getCommand("gamemode").setExecutor(new GamemodeCommand());
+        getCommand("speed").setExecutor(new SpeedCommand());
+        getCommand("tp").setExecutor(new TpCommand());
     }
 
     @Override
