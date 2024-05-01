@@ -10,6 +10,6 @@
 | 6. Bài tập Sự kiện (Event)                   | [Slide](https://docs.google.com/presentation/d/19xAeUzqsoyjMP8b8CHwG2bAXykq1amRTnmMpRFLnyfU/) \| [Video](https://youtu.be/PR4Bw-mDCW4)                |
 | 7. Command                                   | [Slide](https://docs.google.com/presentation/d/1NZQKwbSQXEtPYg3-jkReVtX_DAa1nPxDELySw8rZaMw/) \| [Video](https://youtu.be/XbIGuhjjseQ)                |
 | 8. Bài tập Command                           | [Slide](https://docs.google.com/presentation/d/1LrLBiufo1KZuykpu6GFVmwiUeaL1ht3xakGKge18dIU/) \| [Video](https://youtu.be/L90WXtLE4T4)                |
-| 9. CommandAPI (Phần 1)                       |                                                                                                                                                       |
+| 9. CommandAPI (Phần 1)                       | [Slide](https://docs.google.com/presentation/d/1n1vSBXyxP1UeHmOJBCnDdMXVOIvgRsdDtHLJoC_Ym-Y/) \| [Video](https://youtu.be/oiWvgOogXLk)                |
 | 10. CommandAPI (Phần 2)                      |                                                                                                                                                       |
 | 11. CommandAPI (Phần 3)                      |                                                                                                                                                       |

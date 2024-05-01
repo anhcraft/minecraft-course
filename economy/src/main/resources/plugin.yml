@@ -1,0 +1,5 @@
+name: economy
+version: '${project.version}'
+main: dev.anhcraft.economy.Economy
+api-version: '1.20'
+depend: [CommandAPI]
