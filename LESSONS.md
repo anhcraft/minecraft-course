@@ -11,5 +11,7 @@
 | 7. Command                                   | [Slide](https://docs.google.com/presentation/d/1NZQKwbSQXEtPYg3-jkReVtX_DAa1nPxDELySw8rZaMw/) \| [Video](https://youtu.be/XbIGuhjjseQ)                |
 | 8. Bài tập Command                           | [Slide](https://docs.google.com/presentation/d/1LrLBiufo1KZuykpu6GFVmwiUeaL1ht3xakGKge18dIU/) \| [Video](https://youtu.be/L90WXtLE4T4)                |
 | 9. CommandAPI (Phần 1)                       | [Slide](https://docs.google.com/presentation/d/1n1vSBXyxP1UeHmOJBCnDdMXVOIvgRsdDtHLJoC_Ym-Y/) \| [Video](https://youtu.be/oiWvgOogXLk)                |
-| 10. CommandAPI (Phần 2)                      |                                                                                                                                                       |
+| 10. CommandAPI (Phần 2)                      | [Slide](https://docs.google.com/presentation/d/1qP-ngKA3MdjFta4VVN_7WtKrYnQi6GgCBbpTxNRUgu0/) \| [Video](https://youtu.be/fqiFT3QwF7w)                |
 | 11. CommandAPI (Phần 3)                      |                                                                                                                                                       |
+| 12. Configuration                            |                                                                                                                                                       |
+| 13. Dự án mini 1: LoginSecurity              |                                                                                                                                                       |
